@@ -1,0 +1,20 @@
+body{
+	margin: 0px auto;
+}
+.header{
+	width:100%;
+	float:left;
+	background-color:black;
+	height:400px;
+}
+.h-left{
+	width:40%;
+	height:400px;
+	float:left;
+	background-image:url("../images/logo1.jpg");
+	background-size:100% 100%;
+}
+.h-right{
+	width:60%;
+	
+}
